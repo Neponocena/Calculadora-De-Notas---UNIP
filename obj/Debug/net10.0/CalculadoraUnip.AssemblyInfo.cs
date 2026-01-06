@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraUnip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+872f084d94019bd4e3d8f041b753726077f38941")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8773b9627745c6caceb58a30c3a72677710214d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraUnip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraUnip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

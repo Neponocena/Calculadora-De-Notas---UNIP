@@ -5,7 +5,7 @@ namespace CalculadoraUnip
     {
         private static float LerNota(string descricao)
         {
-            Console.Write("descrição");
+            Console.Write(descricao);
             float nota;
 
             if(!float.TryParse(Console.ReadLine(), out nota))
